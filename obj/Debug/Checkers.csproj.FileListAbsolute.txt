@@ -1,0 +1,12 @@
+C:\Users\sergi\RiderProjects\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\sergi\RiderProjects\Checkers\bin\Debug\Checkers.exe
+C:\Users\sergi\RiderProjects\Checkers\bin\Debug\Checkers.pdb
+C:\Users\sergi\RiderProjects\Checkers\obj\Debug\Checkers.csproj.AssemblyReference.cache
+C:\Users\sergi\RiderProjects\Checkers\obj\Debug\Checkers.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergi\RiderProjects\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\sergi\RiderProjects\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Users\sergi\RiderProjects\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\sergi\RiderProjects\Checkers\obj\Debug\Checkers.exe
+C:\Users\sergi\RiderProjects\Checkers\obj\Debug\Checkers.pdb
+C:\Users\sergi\RiderProjects\Checkers\obj\Debug\Checkers.MainMenuForm.resources
+C:\Users\sergi\RiderProjects\Checkers\obj\Debug\Checkers.GamingForm.resources
